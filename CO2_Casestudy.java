@@ -1,4 +1,4 @@
-public class CO2 {
+public class CO2_Casestudy {
 
     static int[] accesses = {
         12000, 15000, 18000, 22000,
